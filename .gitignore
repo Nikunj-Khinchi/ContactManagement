@@ -15,8 +15,8 @@ logs/
 # Dependency directories
 contact-management-backend/node_modules/
 contact-management-frontend/node_modules/
-contact-management-backend/package-lock.json/
-contact-management-frontend/package-lock.json/
+contact-management-backend/package-lock.json
+contact-management-frontend/package-lock.json
 contact-management-backend/.env
 # Build directories
 
