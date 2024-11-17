@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+*.env
+
+# Dependency directories
+contact-management-backend/node_modules/
+contact-management-frontend/node_modules/
+contact-management-backend/package-lock.json/
+contact-management-frontend/package-lock.json/
+contact-management-backend/.env
+# Build directories
+
+contact-management-backend/dist/
+contact-management-frontend/build/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
